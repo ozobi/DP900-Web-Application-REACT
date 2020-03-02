@@ -1,0 +1,19 @@
+{
+  "name": "DP900 Web Application",
+  "short_name": "DP900 Web App",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png?v=3",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png?v=3",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#9c022e",
+  "background_color": "#9c022e",
+  "display": "standalone"
+}

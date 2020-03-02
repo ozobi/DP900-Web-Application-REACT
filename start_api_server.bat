@@ -1,0 +1,1 @@
+nodemon $env:DEBUG='API';node ./api/app.js

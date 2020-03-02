@@ -1,0 +1,22 @@
+{
+  "name": "dp900-api-server",
+  "version": "1.0.0",
+  "description": "API server for DP900 application",
+  "scripts": {
+    "start": "node app.js",
+    "debug": "nodemon $env:DEBUG='API';node app.js"
+  },
+  "keywords": [
+    "dp900",
+    "api",
+    "server"
+  ],
+  "author": "Onur Zobi",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "debug": "^4.1.1",
+    "express": "^4.17.1",
+    "request": "^2.88.0"
+  }
+}
